@@ -28,8 +28,8 @@ url: "https://chenll0926.github.io"
 github:
   username: Chenll0926 # change to your github username
 
-twitter:
-  username:  # change to your twitter username
+# twitter:
+#   username:  # change to your twitter username
 
 social:
   # Change to your full name.
@@ -79,7 +79,8 @@ pageviews:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: # [light | dark]
+theme_mode: 
+# [light | dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
