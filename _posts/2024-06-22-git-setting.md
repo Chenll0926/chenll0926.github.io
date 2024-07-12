@@ -30,3 +30,8 @@ git init
 git init newrepo
 ```
 这个命令会在`newrepo`中生成一个`.git`目录
+
+### 查看远程仓库地址
+```
+git remote -v
+```
